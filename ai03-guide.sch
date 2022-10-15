@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:ai03-guide-cache
 EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
@@ -613,4 +614,12 @@ Wire Wire Line
 Connection ~ 9150 4350
 Text HLabel 8900 4350 0    50   Output ~ 0
 ROW1
+Text HLabel 6200 2350 2    50   Output ~ 0
+COL1
+Text HLabel 6200 2450 2    50   Output ~ 0
+COL0
+Text HLabel 6200 3850 2    50   Output ~ 0
+ROW1
+Text HLabel 6200 2550 2    50   Output ~ 0
+ROW0
 $EndSCHEMATC

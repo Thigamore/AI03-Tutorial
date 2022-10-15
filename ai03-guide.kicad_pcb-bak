@@ -3,7 +3,7 @@
   (general
     (thickness 1.6)
     (drawings 8)
-    (tracks 7)
+    (tracks 1)
     (zones 0)
     (modules 24)
     (nets 49)
@@ -1225,11 +1225,5 @@
   (gr_arc (start 37.338 87.884) (end 37.338 85.471) (angle -90) (layer Edge.Cuts) (width 0.05))
 
   (segment (start 111.38 97.9825) (end 111.38 97.395) (width 0.381) (layer B.Cu) (net 1))
-  (segment (start 110.11 96.7125) (end 111.38 97.9825) (width 0.381) (layer B.Cu) (net 1))
-  (segment (start 110.11 91.75) (end 110.11 96.7125) (width 0.381) (layer B.Cu) (net 1))
-  (segment (start 108.51 97.71) (end 108.71 97.91) (width 0.25) (layer B.Cu) (net 16))
-  (segment (start 108.51 91.75) (end 108.51 97.71) (width 0.25) (layer B.Cu) (net 16))
-  (segment (start 107.71 96.45) (end 106.27 97.89) (width 0.25) (layer B.Cu) (net 18))
-  (segment (start 107.71 91.75) (end 107.71 96.45) (width 0.25) (layer B.Cu) (net 18))
 
 )
